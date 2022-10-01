@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38819" started-at="2022-10-01T13:44:04Z" finished-at="2022-10-01T13:44:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38819" started-at="2022-10-01T13:44:04Z" finished-at="2022-10-01T13:44:43Z">
+      <class name="org.movie.MovieInfo">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.movie.MovieInfo@42dafa95]" name="beforeClass" is-config="true" duration-ms="6543" started-at="2022-10-01T13:44:04Z" finished-at="2022-10-01T13:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="imdb()[pri:0, instance:org.movie.MovieInfo@42dafa95]" name="imdb" duration-ms="22591" started-at="2022-10-01T13:44:11Z" finished-at="2022-10-01T13:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imdb -->
+        <test-method status="PASS" signature="wiki()[pri:0, instance:org.movie.MovieInfo@42dafa95]" name="wiki" duration-ms="8130" started-at="2022-10-01T13:44:34Z" finished-at="2022-10-01T13:44:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wiki -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.movie.MovieInfo@42dafa95]" name="afterClass" is-config="true" duration-ms="991" started-at="2022-10-01T13:44:42Z" finished-at="2022-10-01T13:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.movie.MovieInfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
